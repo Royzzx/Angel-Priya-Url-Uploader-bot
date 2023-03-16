@@ -9,5 +9,5 @@ def hello_world():
     return '@LazyDeveloper'
 
 
-if __name__ == "__main__":
+if __name__ == "__master__":
     app.run()
